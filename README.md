@@ -19,7 +19,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :telescope: I’m currently working on different internal projects.
 - :keyboard: I'm in love with CSS and I love solving nitty-gritty styling and performance issues in the UI.
-- 💬: Feel free to ask me anything you want.
+- 💬 Feel free to ask me anything you want.
 - :pager:  How to reach me: <a href="https://www.linkedin.com/in/narmin-molina-43623a257/">LinkedIn</a>, <a href="tel:+16477396067">Cell Phone</a>.
 - :mailbox:  Email me: <a href="mailto:narminmolina@gmail.com">narminmolina@gmail.com</a>.
 - :zap: I love art and making illustrations :woman_artist: and I'm a huge fan of The Beatles.
