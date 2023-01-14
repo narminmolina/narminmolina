@@ -10,7 +10,7 @@
 </div>
 <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Narmin
 </h1>
 ---
 
@@ -18,6 +18,7 @@
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Canada.
 
 - :telescope: I’m currently working on different internal projects.
+- 🔭 I aspire to become a Full-Stack Developer
 - :keyboard: I'm in love with CSS and I love solving nitty-gritty styling and performance issues in the UI.
 - 💬 Feel free to ask me anything you want.
 - :pager:  How to reach me: <a href="https://www.linkedin.com/in/narmin-molina-43623a257/">LinkedIn</a> 
